@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/bin/Debug/net7.0/Шеренга
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/bin/Debug/net7.0/Шеренга.deps.json
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/bin/Debug/net7.0/Шеренга.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/bin/Debug/net7.0/Шеренга.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/bin/Debug/net7.0/Шеренга.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/Шеренга.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/Шеренга.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/Шеренга.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/Шеренга.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/Шеренга.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/refint/Шеренга.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/Шеренга.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/Шеренга.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Шеренга/obj/Debug/net7.0/ref/Шеренга.dll

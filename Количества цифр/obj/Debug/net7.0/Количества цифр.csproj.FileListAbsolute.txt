@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/bin/Debug/net7.0/Количества цифр
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/bin/Debug/net7.0/Количества цифр.deps.json
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/bin/Debug/net7.0/Количества цифр.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/bin/Debug/net7.0/Количества цифр.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/bin/Debug/net7.0/Количества цифр.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/Количества цифр.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/Количества цифр.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/Количества цифр.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/Количества цифр.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/Количества цифр.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/refint/Количества цифр.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/Количества цифр.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/Количества цифр.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Количества цифр/obj/Debug/net7.0/ref/Количества цифр.dll

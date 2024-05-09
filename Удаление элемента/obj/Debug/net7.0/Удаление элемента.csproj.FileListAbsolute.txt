@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/bin/Debug/net7.0/Удаление элемента
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/bin/Debug/net7.0/Удаление элемента.deps.json
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/bin/Debug/net7.0/Удаление элемента.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/bin/Debug/net7.0/Удаление элемента.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/bin/Debug/net7.0/Удаление элемента.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/Удаление элемента.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/Удаление элемента.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/Удаление элемента.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/Удаление элемента.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/Удаление элемента.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/refint/Удаление элемента.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/Удаление элемента.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/Удаление элемента.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Удаление элемента/obj/Debug/net7.0/ref/Удаление элемента.dll

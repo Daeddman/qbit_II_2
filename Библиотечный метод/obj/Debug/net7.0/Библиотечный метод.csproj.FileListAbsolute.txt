@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/bin/Debug/net7.0/Библиотечный метод
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/bin/Debug/net7.0/Библиотечный метод.deps.json
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/bin/Debug/net7.0/Библиотечный метод.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/bin/Debug/net7.0/Библиотечный метод.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/bin/Debug/net7.0/Библиотечный метод.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/Библиотечный метод.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/Библиотечный метод.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/Библиотечный метод.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/Библиотечный метод.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/Библиотечный метод.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/refint/Библиотечный метод.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/Библиотечный метод.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/Библиотечный метод.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Библиотечный метод/obj/Debug/net7.0/ref/Библиотечный метод.dll

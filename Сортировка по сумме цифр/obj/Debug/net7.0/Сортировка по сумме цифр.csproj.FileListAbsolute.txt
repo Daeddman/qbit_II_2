@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/bin/Debug/net7.0/Сортировка по сумме цифр
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/bin/Debug/net7.0/Сортировка по сумме цифр.deps.json
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/bin/Debug/net7.0/Сортировка по сумме цифр.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/bin/Debug/net7.0/Сортировка по сумме цифр.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/bin/Debug/net7.0/Сортировка по сумме цифр.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/Сортировка по сумме цифр.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/Сортировка по сумме цифр.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/Сортировка по сумме цифр.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/Сортировка по сумме цифр.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/Сортировка по сумме цифр.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/refint/Сортировка по сумме цифр.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/Сортировка по сумме цифр.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/Сортировка по сумме цифр.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка по сумме цифр/obj/Debug/net7.0/ref/Сортировка по сумме цифр.dll

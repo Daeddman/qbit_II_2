@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/bin/Debug/net7.0/Сортировка выбором
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/bin/Debug/net7.0/Сортировка выбором.deps.json
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/bin/Debug/net7.0/Сортировка выбором.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/bin/Debug/net7.0/Сортировка выбором.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/bin/Debug/net7.0/Сортировка выбором.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/Сортировка выбором.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/Сортировка выбором.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/Сортировка выбором.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/Сортировка выбором.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/Сортировка выбором.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/refint/Сортировка выбором.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/Сортировка выбором.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/Сортировка выбором.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка выбором/obj/Debug/net7.0/ref/Сортировка выбором.dll

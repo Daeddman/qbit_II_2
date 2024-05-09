@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/bin/Debug/net7.0/Сортировкa пузырьком
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/bin/Debug/net7.0/Сортировкa пузырьком.deps.json
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/bin/Debug/net7.0/Сортировкa пузырьком.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/bin/Debug/net7.0/Сортировкa пузырьком.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/bin/Debug/net7.0/Сортировкa пузырьком.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/Сортировкa пузырьком.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/Сортировкa пузырьком.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/Сортировкa пузырьком.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/Сортировкa пузырьком.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/Сортировкa пузырьком.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/refint/Сортировкa пузырьком.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/Сортировкa пузырьком.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/Сортировкa пузырьком.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировкa пузырьком/obj/Debug/net7.0/ref/Сортировкa пузырьком.dll

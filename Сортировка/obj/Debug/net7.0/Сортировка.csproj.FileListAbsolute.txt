@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/bin/Debug/net7.0/Сортировка
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/bin/Debug/net7.0/Сортировка.deps.json
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/bin/Debug/net7.0/Сортировка.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/bin/Debug/net7.0/Сортировка.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/bin/Debug/net7.0/Сортировка.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/Сортировка.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/Сортировка.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/Сортировка.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/Сортировка.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/Сортировка.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/refint/Сортировка.dll
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/Сортировка.pdb
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/Сортировка.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_II_2/Сортировка/obj/Debug/net7.0/ref/Сортировка.dll
